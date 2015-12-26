@@ -40,7 +40,7 @@ radio_channel: See description in radio_link.h.
 //                           SET THESE VARIABLES TO MEET YOUR NEEDS                                 //
 //                                   1 = TRUE       0 = FALSE                                       //
 //                                                                                                  //
-  static XDATA const char transmitter_id[] = "ABCDE";                                               //
+  static XDATA const char transmitter_id[] = "6D1P3";                                               //
 //                                                                                                  //
   static volatile BIT only_listen_for_my_transmitter = 1;                                           //
 // 1 is recommended                                                                                 //
